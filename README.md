@@ -1,1 +1,1 @@
-# curly-succotash
+# curly
